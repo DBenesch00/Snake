@@ -20,4 +20,4 @@ Ordner downloaden und dann einen der folgenden Schritte befolgen.
    --> bin --> Release --> net8.0-windows --> win-x64 --> Snake.exe ausführen
 
 
-Der Code für die Heuristik ist in der Heuristic.cs file
+Der Code für die Heuristik ist in der HeuristicSolver.cs file
