@@ -18,3 +18,6 @@ Ordner downloaden und dann einen der folgenden Schritte befolgen.
 
 2. Falls .Net 8.0 auf dem Pc nicht installiert ist:
    --> bin --> Release --> net8.0-windows --> win-x64 --> Snake.exe ausführen
+
+
+Der Code für die Heuristik ist in der Heuristic.cs file
